@@ -1,0 +1,9 @@
+{
+  "aktif_liste": [
+    {"id": 1, "almanca": "das Haus", "turkce": "ev"},
+    {"id": 2, "almanca": "der Tisch", "turkce": "masa"},
+    {"id": 3, "almanca": "die Lampe", "turkce": "lamba"}
+  ],
+  "sonraki_id": 4,
+  "son_gonderilen_index": 0
+}
