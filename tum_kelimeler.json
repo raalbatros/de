@@ -1,0 +1,15 @@
+{
+  "son_guncelleme": "2026-05-08",
+  "tum_kelimeler": [
+    {"id": 1, "almanca": "das Haus", "turkce": "ev"},
+    {"id": 2, "almanca": "der Tisch", "turkce": "masa"},
+    {"id": 3, "almanca": "die Lampe", "turkce": "lamba"},
+    {"id": 4, "almanca": "der Stuhl", "turkce": "sandalye"},
+    {"id": 5, "almanca": "das Fenster", "turkce": "pencere"},
+    {"id": 6, "almanca": "die Tür", "turkce": "kapı"},
+    {"id": 7, "almanca": "das Bett", "turkce": "yatak"},
+    {"id": 8, "almanca": "der Schrank", "turkce": "dolap"},
+    {"id": 9, "almanca": "die Küche", "turkce": "mutfak"},
+    {"id": 10, "almanca": "das Bad", "turkce": "banyo"}
+  ]
+}
