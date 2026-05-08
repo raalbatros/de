@@ -1,0 +1,25 @@
+name: Quizlet'ten Kelime Çek
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        run: npm install axios cheerio
+        
+      - name: Fetch Quizlet words
+        run: node fetch_words.js
+        env:
+          QUIZLET_URL: "https://quizlet.com/de/935540215/almanca-flash-cards/"
