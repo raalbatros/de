@@ -1,15 +1,9 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 22,
+  "sonraki_id": 23,
   "sira": 0,
   "aktif_liste": [
-    {
-      "id": 3,
-      "almanca": "Entwicklung",
-      "turkce": "gelişme, gelişim",
-      "ogrenildi": false
-    },
     {
       "id": 4,
       "almanca": "frustriert",
@@ -122,6 +116,12 @@
       "id": 21,
       "almanca": "aufstocken",
       "turkce": "yükseltmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 22,
+      "almanca": "beantragen",
+      "turkce": "başvurmak",
       "ogrenildi": false
     }
   ]
