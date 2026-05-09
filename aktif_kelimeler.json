@@ -1,15 +1,9 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 21,
+  "sonraki_id": 22,
   "sira": 0,
   "aktif_liste": [
-    {
-      "id": 2,
-      "almanca": "auftreten",
-      "turkce": "ortaya çıkmak",
-      "ogrenildi": false
-    },
     {
       "id": 3,
       "almanca": "Entwicklung",
@@ -122,6 +116,12 @@
       "id": 999,
       "almanca": "test_kelime",
       "turkce": "test anlamı",
+      "ogrenildi": false
+    },
+    {
+      "id": 21,
+      "almanca": "aufstocken",
+      "turkce": "yükseltmek",
       "ogrenildi": false
     }
   ]
