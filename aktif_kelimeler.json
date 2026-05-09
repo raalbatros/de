@@ -4,25 +4,125 @@
   "sonraki_id": 21,
   "sira": 0,
   "aktif_liste": [
-    {"id": 1, "almanca": "ergänzen", "turkce": "tamamlamak", "ogrenildi": false},
-    {"id": 2, "almanca": "auftreten", "turkce": "ortaya çıkmak", "ogrenildi": false},
-    {"id": 3, "almanca": "Entwicklung", "turkce": "gelişme, gelişim", "ogrenildi": false},
-    {"id": 4, "almanca": "frustriert", "turkce": "hayal kırıklığına uğramış", "ogrenildi": false},
-    {"id": 5, "almanca": "profitieren", "turkce": "yararlanmak", "ogrenildi": false},
-    {"id": 6, "almanca": "entgegennehmen", "turkce": "kabul etmek, teslim almak", "ogrenildi": false},
-    {"id": 7, "almanca": "üblich", "turkce": "alışagelmiş", "ogrenildi": false},
-    {"id": 8, "almanca": "Verwaltung", "turkce": "yönetim, idare", "ogrenildi": false},
-    {"id": 9, "almanca": "anrechnen", "turkce": "hesaplamak, hesaba geçirmek", "ogrenildi": false},
-    {"id": 10, "almanca": "gewähren", "turkce": "vermek, bağışlamak", "ogrenildi": false},
-    {"id": 11, "almanca": "genehmigen", "turkce": "onaylamak, izin vermek", "ogrenildi": false},
-    {"id": 12, "almanca": "verstellen", "turkce": "yerini değiştirmek, ayarlamak", "ogrenildi": false},
-    {"id": 13, "almanca": "Gleichgewicht", "turkce": "denge, uyum", "ogrenildi": false},
-    {"id": 14, "almanca": "abgelten", "turkce": "tazmin etmek", "ogrenildi": false},
-    {"id": 15, "almanca": "vergüten", "turkce": "ödemek, tazmin etmek", "ogrenildi": false},
-    {"id": 16, "almanca": "schweigen", "turkce": "susmak", "ogrenildi": false},
-    {"id": 17, "almanca": "austeilen", "turkce": "dağıtmak", "ogrenildi": false},
-    {"id": 18, "almanca": "Fortzahlung", "turkce": "ödemenin devamı", "ogrenildi": false},
-    {"id": 19, "almanca": "verpflichten sich", "turkce": "üstlenmek", "ogrenildi": false},
-    {"id": 20, "almanca": "umfassen", "turkce": "içermek, kapsamak", "ogrenildi": false}
+    {
+      "id": 2,
+      "almanca": "auftreten",
+      "turkce": "ortaya çıkmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 3,
+      "almanca": "Entwicklung",
+      "turkce": "gelişme, gelişim",
+      "ogrenildi": false
+    },
+    {
+      "id": 4,
+      "almanca": "frustriert",
+      "turkce": "hayal kırıklığına uğramış",
+      "ogrenildi": false
+    },
+    {
+      "id": 5,
+      "almanca": "profitieren",
+      "turkce": "yararlanmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 6,
+      "almanca": "entgegennehmen",
+      "turkce": "kabul etmek, teslim almak",
+      "ogrenildi": false
+    },
+    {
+      "id": 7,
+      "almanca": "üblich",
+      "turkce": "alışagelmiş",
+      "ogrenildi": false
+    },
+    {
+      "id": 8,
+      "almanca": "Verwaltung",
+      "turkce": "yönetim, idare",
+      "ogrenildi": false
+    },
+    {
+      "id": 9,
+      "almanca": "anrechnen",
+      "turkce": "hesaplamak, hesaba geçirmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 10,
+      "almanca": "gewähren",
+      "turkce": "vermek, bağışlamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 11,
+      "almanca": "genehmigen",
+      "turkce": "onaylamak, izin vermek",
+      "ogrenildi": false
+    },
+    {
+      "id": 12,
+      "almanca": "verstellen",
+      "turkce": "yerini değiştirmek, ayarlamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 13,
+      "almanca": "Gleichgewicht",
+      "turkce": "denge, uyum",
+      "ogrenildi": false
+    },
+    {
+      "id": 14,
+      "almanca": "abgelten",
+      "turkce": "tazmin etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 15,
+      "almanca": "vergüten",
+      "turkce": "ödemek, tazmin etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 16,
+      "almanca": "schweigen",
+      "turkce": "susmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 17,
+      "almanca": "austeilen",
+      "turkce": "dağıtmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 18,
+      "almanca": "Fortzahlung",
+      "turkce": "ödemenin devamı",
+      "ogrenildi": false
+    },
+    {
+      "id": 19,
+      "almanca": "verpflichten sich",
+      "turkce": "üstlenmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 20,
+      "almanca": "umfassen",
+      "turkce": "içermek, kapsamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 999,
+      "almanca": "test_kelime",
+      "turkce": "test anlamı",
+      "ogrenildi": false
+    }
   ]
 }
