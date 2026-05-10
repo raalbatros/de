@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 23,
+  "sonraki_id": 24,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 999,
-      "almanca": "test_kelime",
-      "turkce": "test anlamı",
-      "ogrenildi": false
-    },
-    {
       "id": 21,
       "almanca": "aufstocken",
       "turkce": "yükseltmek",
@@ -122,6 +116,12 @@
       "id": 22,
       "almanca": "beantragen",
       "turkce": "başvurmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 23,
+      "almanca": "abweichend",
+      "turkce": "birbirinden farklı",
       "ogrenildi": false
     }
   ]
