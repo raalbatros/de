@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 24,
+  "sonraki_id": 25,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 18,
-      "almanca": "Fortzahlung",
-      "turkce": "ödemenin devamı",
-      "ogrenildi": false
-    },
-    {
       "id": 19,
       "almanca": "verpflichten sich",
       "turkce": "üstlenmek",
@@ -122,6 +116,12 @@
       "id": 23,
       "almanca": "abweichend",
       "turkce": "birbirinden farklı",
+      "ogrenildi": false
+    },
+    {
+      "id": 24,
+      "almanca": "unterbrechen",
+      "turkce": "ara vermek, sözünü kesmek",
       "ogrenildi": false
     }
   ]
