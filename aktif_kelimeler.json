@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 25,
+  "sonraki_id": 26,
   "sira": 0,
   "aktif_liste": [
     {
@@ -26,12 +26,6 @@
       "id": 7,
       "almanca": "üblich",
       "turkce": "alışagelmiş",
-      "ogrenildi": false
-    },
-    {
-      "id": 8,
-      "almanca": "Verwaltung",
-      "turkce": "yönetim, idare",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 24,
       "almanca": "unterbrechen",
       "turkce": "ara vermek, sözünü kesmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 25,
+      "almanca": "vorgesehen",
+      "turkce": "öngörülen",
       "ogrenildi": false
     }
   ]
