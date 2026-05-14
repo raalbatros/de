@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 26,
+  "sonraki_id": 27,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 17,
-      "almanca": "austeilen",
-      "turkce": "dağıtmak",
-      "ogrenildi": false
-    },
-    {
       "id": 19,
       "almanca": "verpflichten sich",
       "turkce": "üstlenmek",
@@ -122,6 +116,12 @@
       "id": 25,
       "almanca": "vorgesehen",
       "turkce": "öngörülen",
+      "ogrenildi": false
+    },
+    {
+      "id": 26,
+      "almanca": "unterzeichnen",
+      "turkce": "imzalamak",
       "ogrenildi": false
     }
   ]
