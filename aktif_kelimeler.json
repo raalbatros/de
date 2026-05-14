@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 27,
+  "sonraki_id": 28,
   "sira": 0,
   "aktif_liste": [
     {
@@ -38,12 +38,6 @@
       "id": 10,
       "almanca": "gewähren",
       "turkce": "vermek, bağışlamak",
-      "ogrenildi": false
-    },
-    {
-      "id": 11,
-      "almanca": "genehmigen",
-      "turkce": "onaylamak, izin vermek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 26,
       "almanca": "unterzeichnen",
       "turkce": "imzalamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 27,
+      "almanca": "sich halten an",
+      "turkce": "bağlı kalmak",
       "ogrenildi": false
     }
   ]
