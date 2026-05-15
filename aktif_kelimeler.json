@@ -1,15 +1,9 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 28,
+  "sonraki_id": 29,
   "sira": 0,
   "aktif_liste": [
-    {
-      "id": 4,
-      "almanca": "frustriert",
-      "turkce": "hayal kırıklığına uğramış",
-      "ogrenildi": false
-    },
     {
       "id": 5,
       "almanca": "profitieren",
@@ -122,6 +116,12 @@
       "id": 27,
       "almanca": "sich halten an",
       "turkce": "bağlı kalmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 28,
+      "almanca": "brechen",
+      "turkce": "ayrılmak",
       "ogrenildi": false
     }
   ]
