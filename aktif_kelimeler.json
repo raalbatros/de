@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 30,
+  "sonraki_id": 31,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 22,
-      "almanca": "beantragen",
-      "turkce": "başvurmak",
-      "ogrenildi": false
-    },
-    {
       "id": 23,
       "almanca": "abweichend",
       "turkce": "birbirinden farklı",
@@ -122,6 +116,12 @@
       "id": 29,
       "almanca": "erfassen",
       "turkce": "kapsamak, kavramak, anlamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 30,
+      "almanca": "festgelegt",
+      "turkce": "belirli, kesin",
       "ogrenildi": false
     }
   ]
