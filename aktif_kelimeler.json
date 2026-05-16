@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 29,
+  "sonraki_id": 30,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 20,
-      "almanca": "umfassen",
-      "turkce": "içermek, kapsamak",
-      "ogrenildi": false
-    },
-    {
       "id": 21,
       "almanca": "aufstocken",
       "turkce": "yükseltmek",
@@ -122,6 +116,12 @@
       "id": 28,
       "almanca": "brechen",
       "turkce": "ayrılmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 29,
+      "almanca": "erfassen",
+      "turkce": "kapsamak, kavramak, anlamak",
       "ogrenildi": false
     }
   ]
