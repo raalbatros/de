@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 31,
+  "sonraki_id": 32,
   "sira": 0,
   "aktif_liste": [
     {
@@ -50,12 +50,6 @@
       "id": 14,
       "almanca": "abgelten",
       "turkce": "tazmin etmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 15,
-      "almanca": "vergüten",
-      "turkce": "ödemek, tazmin etmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 30,
       "almanca": "festgelegt",
       "turkce": "belirli, kesin",
+      "ogrenildi": false
+    },
+    {
+      "id": 31,
+      "almanca": "bedauern",
+      "turkce": "üzülmek, acımak",
       "ogrenildi": false
     }
   ]
