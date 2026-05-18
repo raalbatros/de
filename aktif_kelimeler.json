@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 33,
+  "sonraki_id": 34,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 25,
-      "almanca": "vorgesehen",
-      "turkce": "öngörülen",
-      "ogrenildi": false
-    },
-    {
       "id": 26,
       "almanca": "unterzeichnen",
       "turkce": "imzalamak",
@@ -122,6 +116,12 @@
       "id": 32,
       "almanca": "wahrnehmen",
       "turkce": "algılamak, farkına varmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 33,
+      "almanca": "Fassade",
+      "turkce": "ön cephe",
       "ogrenildi": false
     }
   ]
