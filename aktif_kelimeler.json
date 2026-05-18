@@ -1,15 +1,9 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 32,
+  "sonraki_id": 33,
   "sira": 0,
   "aktif_liste": [
-    {
-      "id": 5,
-      "almanca": "profitieren",
-      "turkce": "yararlanmak",
-      "ogrenildi": false
-    },
     {
       "id": 6,
       "almanca": "entgegennehmen",
@@ -122,6 +116,12 @@
       "id": 31,
       "almanca": "bedauern",
       "turkce": "üzülmek, acımak",
+      "ogrenildi": false
+    },
+    {
+      "id": 32,
+      "almanca": "wahrnehmen",
+      "turkce": "algılamak, farkına varmak",
       "ogrenildi": false
     }
   ]
