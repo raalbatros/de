@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 34,
+  "sonraki_id": 35,
   "sira": 0,
   "aktif_liste": [
     {
@@ -32,12 +32,6 @@
       "id": 12,
       "almanca": "verstellen",
       "turkce": "yerini değiştirmek, ayarlamak",
-      "ogrenildi": false
-    },
-    {
-      "id": 13,
-      "almanca": "Gleichgewicht",
-      "turkce": "denge, uyum",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 33,
       "almanca": "Fassade",
       "turkce": "ön cephe",
+      "ogrenildi": false
+    },
+    {
+      "id": 34,
+      "almanca": "Gesellenprüfung",
+      "turkce": "kalfalık sınavı",
       "ogrenildi": false
     }
   ]
