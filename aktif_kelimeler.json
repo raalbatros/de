@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 35,
+  "sonraki_id": 36,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 29,
-      "almanca": "erfassen",
-      "turkce": "kapsamak, kavramak, anlamak",
-      "ogrenildi": false
-    },
-    {
       "id": 30,
       "almanca": "festgelegt",
       "turkce": "belirli, kesin",
@@ -122,6 +116,12 @@
       "id": 34,
       "almanca": "Gesellenprüfung",
       "turkce": "kalfalık sınavı",
+      "ogrenildi": false
+    },
+    {
+      "id": 35,
+      "almanca": "erwerben",
+      "turkce": "kazanmak, edinmek",
       "ogrenildi": false
     }
   ]
