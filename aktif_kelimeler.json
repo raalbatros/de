@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 36,
+  "sonraki_id": 37,
   "sira": 0,
   "aktif_liste": [
     {
@@ -32,12 +32,6 @@
       "id": 12,
       "almanca": "verstellen",
       "turkce": "yerini değiştirmek, ayarlamak",
-      "ogrenildi": false
-    },
-    {
-      "id": 14,
-      "almanca": "abgelten",
-      "turkce": "tazmin etmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 36,
+      "almanca": "Haufen",
+      "turkce": "yığın, küme",
       "ogrenildi": false
     }
   ]
