@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 37,
+  "sonraki_id": 38,
   "sira": 0,
   "aktif_liste": [
     {
@@ -14,12 +14,6 @@
       "id": 7,
       "almanca": "üblich",
       "turkce": "alışagelmiş",
-      "ogrenildi": false
-    },
-    {
-      "id": 9,
-      "almanca": "anrechnen",
-      "turkce": "hesaplamak, hesaba geçirmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 36,
       "almanca": "Haufen",
       "turkce": "yığın, küme",
+      "ogrenildi": false
+    },
+    {
+      "id": 37,
+      "almanca": "wohl",
+      "turkce": "hoş, iyi, muhtemelen",
       "ogrenildi": false
     }
   ]
