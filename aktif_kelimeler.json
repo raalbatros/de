@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 38,
+  "sonraki_id": 39,
   "sira": 0,
   "aktif_liste": [
     {
@@ -32,12 +32,6 @@
       "id": 16,
       "almanca": "schweigen",
       "turkce": "susmak",
-      "ogrenildi": false
-    },
-    {
-      "id": 19,
-      "almanca": "verpflichten sich",
-      "turkce": "üstlenmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 37,
       "almanca": "wohl",
       "turkce": "hoş, iyi, muhtemelen",
+      "ogrenildi": false
+    },
+    {
+      "id": 38,
+      "almanca": "fähig",
+      "turkce": "yetenekli",
       "ogrenildi": false
     }
   ]
