@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 41,
+  "sonraki_id": 42,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 37,
-      "almanca": "wohl",
-      "turkce": "hoş, iyi, muhtemelen",
-      "ogrenildi": false
-    },
-    {
       "id": 38,
       "almanca": "fähig",
       "turkce": "yetenekli",
@@ -122,6 +116,12 @@
       "id": 40,
       "almanca": "tagsüber",
       "turkce": "gündüzleri",
+      "ogrenildi": false
+    },
+    {
+      "id": 41,
+      "almanca": "entscheiden",
+      "turkce": "karar vermek",
       "ogrenildi": false
     }
   ]
