@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 39,
+  "sonraki_id": 40,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 34,
-      "almanca": "Gesellenprüfung",
-      "turkce": "kalfalık sınavı",
-      "ogrenildi": false
-    },
-    {
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
@@ -122,6 +116,12 @@
       "id": 38,
       "almanca": "fähig",
       "turkce": "yetenekli",
+      "ogrenildi": false
+    },
+    {
+      "id": 39,
+      "almanca": "zuverlässig",
+      "turkce": "güvenilir",
       "ogrenildi": false
     }
   ]
