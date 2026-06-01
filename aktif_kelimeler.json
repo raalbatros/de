@@ -1,19 +1,13 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 40,
+  "sonraki_id": 41,
   "sira": 0,
   "aktif_liste": [
     {
       "id": 6,
       "almanca": "entgegennehmen",
       "turkce": "kabul etmek, teslim almak",
-      "ogrenildi": false
-    },
-    {
-      "id": 7,
-      "almanca": "üblich",
-      "turkce": "alışagelmiş",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 39,
       "almanca": "zuverlässig",
       "turkce": "güvenilir",
+      "ogrenildi": false
+    },
+    {
+      "id": 40,
+      "almanca": "tagsüber",
+      "turkce": "gündüzleri",
       "ogrenildi": false
     }
   ]
