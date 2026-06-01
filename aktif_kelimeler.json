@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 43,
+  "sonraki_id": 44,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 31,
-      "almanca": "bedauern",
-      "turkce": "üzülmek, acımak",
-      "ogrenildi": false
-    },
-    {
       "id": 32,
       "almanca": "wahrnehmen",
       "turkce": "algılamak, farkına varmak",
@@ -122,6 +116,12 @@
       "id": 42,
       "almanca": "bestätigen",
       "turkce": "onaylamak, tasdik etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 43,
+      "almanca": "pflanzen",
+      "turkce": "dikmek, ekmek",
       "ogrenildi": false
     }
   ]
