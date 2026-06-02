@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 44,
+  "sonraki_id": 45,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 39,
-      "almanca": "zuverlässig",
-      "turkce": "güvenilir",
-      "ogrenildi": false
-    },
-    {
       "id": 40,
       "almanca": "tagsüber",
       "turkce": "gündüzleri",
@@ -122,6 +116,12 @@
       "id": 43,
       "almanca": "pflanzen",
       "turkce": "dikmek, ekmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 44,
+      "almanca": "bloss",
+      "turkce": "sadece",
       "ogrenildi": false
     }
   ]
