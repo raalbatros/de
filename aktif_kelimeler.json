@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 46,
+  "sonraki_id": 47,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 40,
-      "almanca": "tagsüber",
-      "turkce": "gündüzleri",
-      "ogrenildi": false
-    },
-    {
       "id": 41,
       "almanca": "entscheiden",
       "turkce": "karar vermek",
@@ -122,6 +116,12 @@
       "id": 45,
       "almanca": "Intervallfasten",
       "turkce": "aralıklı oruç",
+      "ogrenildi": false
+    },
+    {
+      "id": 46,
+      "almanca": "eigentlich",
+      "turkce": "aslında, gerçekten",
       "ogrenildi": false
     }
   ]
