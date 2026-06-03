@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 45,
+  "sonraki_id": 46,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 32,
-      "almanca": "wahrnehmen",
-      "turkce": "algılamak, farkına varmak",
-      "ogrenildi": false
-    },
-    {
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
@@ -122,6 +116,12 @@
       "id": 44,
       "almanca": "bloss",
       "turkce": "sadece",
+      "ogrenildi": false
+    },
+    {
+      "id": 45,
+      "almanca": "Intervallfasten",
+      "turkce": "aralıklı oruç",
       "ogrenildi": false
     }
   ]
