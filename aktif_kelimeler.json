@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 49,
+  "sonraki_id": 50,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 41,
-      "almanca": "entscheiden",
-      "turkce": "karar vermek",
-      "ogrenildi": false
-    },
-    {
       "id": 43,
       "almanca": "pflanzen",
       "turkce": "dikmek, ekmek",
@@ -122,6 +116,12 @@
       "id": 48,
       "almanca": "Dächer",
       "turkce": "çatılar",
+      "ogrenildi": false
+    },
+    {
+      "id": 49,
+      "almanca": "Windschutzscheibe",
+      "turkce": "ön cam",
       "ogrenildi": false
     }
   ]
