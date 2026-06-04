@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 48,
+  "sonraki_id": 49,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 42,
-      "almanca": "bestätigen",
-      "turkce": "onaylamak, tasdik etmek",
-      "ogrenildi": false
-    },
-    {
       "id": 43,
       "almanca": "pflanzen",
       "turkce": "dikmek, ekmek",
@@ -122,6 +116,12 @@
       "id": 47,
       "almanca": "entdecken",
       "turkce": "bulmak, keşfetmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 48,
+      "almanca": "Dächer",
+      "turkce": "çatılar",
       "ogrenildi": false
     }
   ]
