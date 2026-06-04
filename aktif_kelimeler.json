@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 52,
+  "sonraki_id": 53,
   "sira": 0,
   "aktif_liste": [
     {
@@ -119,9 +119,9 @@
       "ogrenildi": false
     },
     {
-      "id": 51,
-      "almanca": "Kräfte",
-      "turkce": "güçler",
+      "id": 52,
+      "almanca": "Erholung",
+      "turkce": "iyileşme, dinlenme",
       "ogrenildi": false
     }
   ]
