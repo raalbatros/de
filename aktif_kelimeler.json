@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 53,
+  "sonraki_id": 54,
   "sira": 0,
   "aktif_liste": [
     {
@@ -113,15 +113,15 @@
       "ogrenildi": false
     },
     {
-      "id": 50,
-      "almanca": "duzen",
-      "turkce": "sen diye hitap etmek",
-      "ogrenildi": false
-    },
-    {
       "id": 52,
       "almanca": "Erholung",
       "turkce": "iyileşme, dinlenme",
+      "ogrenildi": false
+    },
+    {
+      "id": 53,
+      "almanca": "besteht aus",
+      "turkce": "oluşmak",
       "ogrenildi": false
     }
   ]
