@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 51,
+  "sonraki_id": 52,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 48,
-      "almanca": "Dächer",
-      "turkce": "çatılar",
-      "ogrenildi": false
-    },
-    {
       "id": 49,
       "almanca": "Windschutzscheibe",
       "turkce": "ön cam",
@@ -122,6 +116,12 @@
       "id": 50,
       "almanca": "duzen",
       "turkce": "sen diye hitap etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 51,
+      "almanca": "Kräfte",
+      "turkce": "güçler",
       "ogrenildi": false
     }
   ]
