@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 50,
+  "sonraki_id": 51,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 46,
-      "almanca": "eigentlich",
-      "turkce": "aslında, gerçekten",
-      "ogrenildi": false
-    },
-    {
       "id": 47,
       "almanca": "entdecken",
       "turkce": "bulmak, keşfetmek",
@@ -122,6 +116,12 @@
       "id": 49,
       "almanca": "Windschutzscheibe",
       "turkce": "ön cam",
+      "ogrenildi": false
+    },
+    {
+      "id": 50,
+      "almanca": "duzen",
+      "turkce": "sen diye hitap etmek",
       "ogrenildi": false
     }
   ]
