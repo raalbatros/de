@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 54,
+  "sonraki_id": 55,
   "sira": 0,
   "aktif_liste": [
     {
@@ -44,12 +44,6 @@
       "id": 24,
       "almanca": "unterbrechen",
       "turkce": "ara vermek, sözünü kesmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 26,
-      "almanca": "unterzeichnen",
-      "turkce": "imzalamak",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 53,
       "almanca": "besteht aus",
       "turkce": "oluşmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 54,
+      "almanca": "halten",
+      "turkce": "tutmak",
       "ogrenildi": false
     }
   ]
