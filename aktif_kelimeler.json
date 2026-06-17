@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 59,
+  "sonraki_id": 60,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 55,
-      "almanca": "kümmern",
-      "turkce": "ilgilenmek, bakmak",
-      "ogrenildi": false
-    },
-    {
       "id": 56,
       "almanca": "entkommen",
       "turkce": "kaçıp kurtulmak",
@@ -122,6 +116,12 @@
       "id": 58,
       "almanca": "rückwärts",
       "turkce": "geriye doğru",
+      "ogrenildi": false
+    },
+    {
+      "id": 59,
+      "almanca": "einzigen",
+      "turkce": "tek, yalnız",
       "ogrenildi": false
     }
   ]
