@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 58,
+  "sonraki_id": 59,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 49,
-      "almanca": "Windschutzscheibe",
-      "turkce": "ön cam",
-      "ogrenildi": false
-    },
-    {
       "id": 52,
       "almanca": "Erholung",
       "turkce": "iyileşme, dinlenme",
@@ -122,6 +116,12 @@
       "id": 57,
       "almanca": "Anlage",
       "turkce": "ek, ekte olan",
+      "ogrenildi": false
+    },
+    {
+      "id": 58,
+      "almanca": "rückwärts",
+      "turkce": "geriye doğru",
       "ogrenildi": false
     }
   ]
