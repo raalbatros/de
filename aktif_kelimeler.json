@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 56,
+  "sonraki_id": 57,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 43,
-      "almanca": "pflanzen",
-      "turkce": "dikmek, ekmek",
-      "ogrenildi": false
-    },
-    {
       "id": 44,
       "almanca": "bloss",
       "turkce": "sadece",
@@ -122,6 +116,12 @@
       "id": 55,
       "almanca": "kümmern",
       "turkce": "ilgilenmek, bakmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 56,
+      "almanca": "entkommen",
+      "turkce": "kaçıp kurtulmak",
       "ogrenildi": false
     }
   ]
