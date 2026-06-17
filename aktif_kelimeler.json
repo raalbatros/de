@@ -1,15 +1,9 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 55,
+  "sonraki_id": 56,
   "sira": 0,
   "aktif_liste": [
-    {
-      "id": 6,
-      "almanca": "entgegennehmen",
-      "turkce": "kabul etmek, teslim almak",
-      "ogrenildi": false
-    },
     {
       "id": 10,
       "almanca": "gewähren",
@@ -122,6 +116,12 @@
       "id": 54,
       "almanca": "halten",
       "turkce": "tutmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 55,
+      "almanca": "kümmern",
+      "turkce": "ilgilenmek, bakmak",
       "ogrenildi": false
     }
   ]
