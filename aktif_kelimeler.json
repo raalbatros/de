@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 62,
+  "sonraki_id": 63,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 53,
-      "almanca": "besteht aus",
-      "turkce": "oluşmak",
-      "ogrenildi": false
-    },
-    {
       "id": 56,
       "almanca": "entkommen",
       "turkce": "kaçıp kurtulmak",
@@ -122,6 +116,12 @@
       "id": 61,
       "almanca": "Pfanne",
       "turkce": "tava",
+      "ogrenildi": false
+    },
+    {
+      "id": 62,
+      "almanca": "stellen",
+      "turkce": "dik koymak",
       "ogrenildi": false
     }
   ]
