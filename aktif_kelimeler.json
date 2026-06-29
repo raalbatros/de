@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 61,
+  "sonraki_id": 62,
   "sira": 0,
   "aktif_liste": [
     {
@@ -56,12 +56,6 @@
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 36,
-      "almanca": "Haufen",
-      "turkce": "yığın, küme",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 60,
       "almanca": "Betrag",
       "turkce": "miktar, tutar",
+      "ogrenildi": false
+    },
+    {
+      "id": 61,
+      "almanca": "Pfanne",
+      "turkce": "tava",
       "ogrenildi": false
     }
   ]
