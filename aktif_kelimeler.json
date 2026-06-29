@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 63,
+  "sonraki_id": 64,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 52,
-      "almanca": "Erholung",
-      "turkce": "iyileşme, dinlenme",
-      "ogrenildi": false
-    },
-    {
       "id": 56,
       "almanca": "entkommen",
       "turkce": "kaçıp kurtulmak",
@@ -122,6 +116,12 @@
       "id": 62,
       "almanca": "stellen",
       "turkce": "dik koymak",
+      "ogrenildi": false
+    },
+    {
+      "id": 63,
+      "almanca": "heizen",
+      "turkce": "ısıtmak",
       "ogrenildi": false
     }
   ]
