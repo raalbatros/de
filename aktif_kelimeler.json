@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 64,
+  "sonraki_id": 65,
   "sira": 0,
   "aktif_liste": [
     {
@@ -56,12 +56,6 @@
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 38,
-      "almanca": "fähig",
-      "turkce": "yetenekli",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 63,
       "almanca": "heizen",
       "turkce": "ısıtmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 64,
+      "almanca": "jeweiligen",
+      "turkce": "ilgili",
       "ogrenildi": false
     }
   ]
