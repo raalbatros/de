@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 66,
+  "sonraki_id": 67,
   "sira": 0,
   "aktif_liste": [
     {
@@ -14,12 +14,6 @@
       "id": 12,
       "almanca": "verstellen",
       "turkce": "yerini değiştirmek, ayarlamak",
-      "ogrenildi": false
-    },
-    {
-      "id": 16,
-      "almanca": "schweigen",
-      "turkce": "susmak",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 65,
       "almanca": "Leistung",
       "turkce": "performans, güç",
+      "ogrenildi": false
+    },
+    {
+      "id": 66,
+      "almanca": "Hilfsmittel",
+      "turkce": "yardımcı araç",
       "ogrenildi": false
     }
   ]
