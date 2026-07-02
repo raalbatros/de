@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 65,
+  "sonraki_id": 66,
   "sira": 0,
   "aktif_liste": [
     {
@@ -20,12 +20,6 @@
       "id": 16,
       "almanca": "schweigen",
       "turkce": "susmak",
-      "ogrenildi": false
-    },
-    {
-      "id": 21,
-      "almanca": "aufstocken",
-      "turkce": "yükseltmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 64,
       "almanca": "jeweiligen",
       "turkce": "ilgili",
+      "ogrenildi": false
+    },
+    {
+      "id": 65,
+      "almanca": "Leistung",
+      "turkce": "performans, güç",
       "ogrenildi": false
     }
   ]
