@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 68,
+  "sonraki_id": 69,
   "sira": 0,
   "aktif_liste": [
     {
@@ -50,12 +50,6 @@
       "id": 44,
       "almanca": "bloss",
       "turkce": "sadece",
-      "ogrenildi": false
-    },
-    {
-      "id": 47,
-      "almanca": "entdecken",
-      "turkce": "bulmak, keşfetmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 67,
       "almanca": "einhalten",
       "turkce": "bir şeye uymak",
+      "ogrenildi": false
+    },
+    {
+      "id": 68,
+      "almanca": "Selbstbewusstsein",
+      "turkce": "özgüven",
       "ogrenildi": false
     }
   ]
