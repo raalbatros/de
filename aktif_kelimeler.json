@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 69,
+  "sonraki_id": 70,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 63,
-      "almanca": "heizen",
-      "turkce": "ısıtmak",
-      "ogrenildi": false
-    },
-    {
       "id": 64,
       "almanca": "jeweiligen",
       "turkce": "ilgili",
@@ -122,6 +116,12 @@
       "id": 68,
       "almanca": "Selbstbewusstsein",
       "turkce": "özgüven",
+      "ogrenildi": false
+    },
+    {
+      "id": 69,
+      "almanca": "Verzeihung",
+      "turkce": "affedersiniz",
       "ogrenildi": false
     }
   ]
