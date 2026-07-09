@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 70,
+  "sonraki_id": 71,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 61,
-      "almanca": "Pfanne",
-      "turkce": "tava",
-      "ogrenildi": false
-    },
-    {
       "id": 64,
       "almanca": "jeweiligen",
       "turkce": "ilgili",
@@ -122,6 +116,12 @@
       "id": 69,
       "almanca": "Verzeihung",
       "turkce": "affedersiniz",
+      "ogrenildi": false
+    },
+    {
+      "id": 70,
+      "almanca": "verbinden",
+      "turkce": "bağlamak, birleştirmek",
       "ogrenildi": false
     }
   ]
