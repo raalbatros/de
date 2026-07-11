@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 73,
+  "sonraki_id": 74,
   "sira": 0,
   "aktif_liste": [
     {
@@ -65,12 +65,6 @@
       "ogrenildi": false
     },
     {
-      "id": 58,
-      "almanca": "rückwärts",
-      "turkce": "geriye doğru",
-      "ogrenildi": false
-    },
-    {
       "id": 60,
       "almanca": "Betrag",
       "turkce": "miktar, tutar",
@@ -122,6 +116,12 @@
       "id": 72,
       "almanca": "Häppchen",
       "turkce": "lokma",
+      "ogrenildi": false
+    },
+    {
+      "id": 73,
+      "almanca": "staatlich",
+      "turkce": "resmi, devletle ilgili",
       "ogrenildi": false
     }
   ]
