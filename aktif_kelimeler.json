@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 76,
+  "sonraki_id": 77,
   "sira": 0,
   "aktif_liste": [
     {
@@ -113,15 +113,15 @@
       "ogrenildi": false
     },
     {
-      "id": 73,
-      "almanca": "staatlich",
-      "turkce": "resmi, devletle ilgili",
-      "ogrenildi": false
-    },
-    {
       "id": 75,
       "almanca": "zwingen",
       "turkce": "zorlamak, mecbur etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 76,
+      "almanca": "Gleitzeit",
+      "turkce": "esnek çalışma saatleri",
       "ogrenildi": false
     }
   ]
