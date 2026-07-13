@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 74,
+  "sonraki_id": 75,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 70,
-      "almanca": "verbinden",
-      "turkce": "bağlamak, birleştirmek",
-      "ogrenildi": false
-    },
-    {
       "id": 71,
       "almanca": "standhaft",
       "turkce": "dayanıklı",
@@ -122,6 +116,12 @@
       "id": 73,
       "almanca": "staatlich",
       "turkce": "resmi, devletle ilgili",
+      "ogrenildi": false
+    },
+    {
+      "id": 74,
+      "almanca": "Vorteile",
+      "turkce": "avantajlar",
       "ogrenildi": false
     }
   ]
