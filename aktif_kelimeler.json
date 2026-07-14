@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 77,
+  "sonraki_id": 78,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 65,
-      "almanca": "Leistung",
-      "turkce": "performans, güç",
-      "ogrenildi": false
-    },
-    {
       "id": 66,
       "almanca": "Hilfsmittel",
       "turkce": "yardımcı araç",
@@ -122,6 +116,12 @@
       "id": 76,
       "almanca": "Gleitzeit",
       "turkce": "esnek çalışma saatleri",
+      "ogrenildi": false
+    },
+    {
+      "id": 77,
+      "almanca": "feststellen",
+      "turkce": "saptamak, tespit etmek",
       "ogrenildi": false
     }
   ]
