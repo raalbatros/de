@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 78,
+  "sonraki_id": 79,
   "sira": 0,
   "aktif_liste": [
     {
@@ -50,12 +50,6 @@
       "id": 44,
       "almanca": "bloss",
       "turkce": "sadece",
-      "ogrenildi": false
-    },
-    {
-      "id": 56,
-      "almanca": "entkommen",
-      "turkce": "kaçıp kurtulmak",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 77,
       "almanca": "feststellen",
       "turkce": "saptamak, tespit etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 78,
+      "almanca": "zeitnah",
+      "turkce": "yakın zamanda, zamanında",
       "ogrenildi": false
     }
   ]
