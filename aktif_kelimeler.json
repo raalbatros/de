@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 79,
+  "sonraki_id": 80,
   "sira": 0,
   "aktif_liste": [
     {
@@ -119,9 +119,9 @@
       "ogrenildi": false
     },
     {
-      "id": 78,
-      "almanca": "zeitnah",
-      "turkce": "yakın zamanda, zamanında",
+      "id": 79,
+      "almanca": "Abmahnung",
+      "turkce": "ihtar, ikaz",
       "ogrenildi": false
     }
   ]
