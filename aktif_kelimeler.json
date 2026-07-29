@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 80,
+  "sonraki_id": 81,
   "sira": 0,
   "aktif_liste": [
     {
@@ -119,9 +119,9 @@
       "ogrenildi": false
     },
     {
-      "id": 79,
-      "almanca": "Abmahnung",
-      "turkce": "ihtar, ikaz",
+      "id": 80,
+      "almanca": "ausüben",
+      "turkce": "yapmak, icra etmek",
       "ogrenildi": false
     }
   ]
