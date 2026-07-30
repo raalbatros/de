@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 81,
+  "sonraki_id": 82,
   "sira": 0,
   "aktif_liste": [
     {
@@ -56,12 +56,6 @@
       "id": 57,
       "almanca": "Anlage",
       "turkce": "ek, ekte olan",
-      "ogrenildi": false
-    },
-    {
-      "id": 60,
-      "almanca": "Betrag",
-      "turkce": "miktar, tutar",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 80,
       "almanca": "ausüben",
       "turkce": "yapmak, icra etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 81,
+      "almanca": "anpassen",
+      "turkce": "uyarlamak, uydurmak",
       "ogrenildi": false
     }
   ]
