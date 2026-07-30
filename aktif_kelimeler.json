@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 82,
+  "sonraki_id": 83,
   "sira": 0,
   "aktif_liste": [
     {
@@ -65,12 +65,6 @@
       "ogrenildi": false
     },
     {
-      "id": 66,
-      "almanca": "Hilfsmittel",
-      "turkce": "yardımcı araç",
-      "ogrenildi": false
-    },
-    {
       "id": 67,
       "almanca": "einhalten",
       "turkce": "bir şeye uymak",
@@ -122,6 +116,12 @@
       "id": 81,
       "almanca": "anpassen",
       "turkce": "uyarlamak, uydurmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 82,
+      "almanca": "verbindlich",
+      "turkce": "bağlayıcı, zorunlu",
       "ogrenildi": false
     }
   ]
