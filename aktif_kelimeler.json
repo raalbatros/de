@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 84,
+  "sonraki_id": 85,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 72,
-      "almanca": "Häppchen",
-      "turkce": "lokma",
-      "ogrenildi": false
-    },
-    {
       "id": 75,
       "almanca": "zwingen",
       "turkce": "zorlamak, mecbur etmek",
@@ -122,6 +116,12 @@
       "id": 83,
       "almanca": "Absprachen treffen",
       "turkce": "anlaşmalar yapmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 84,
+      "almanca": "investieren",
+      "turkce": "para yatırmak, yatırım yapmak",
       "ogrenildi": false
     }
   ]
