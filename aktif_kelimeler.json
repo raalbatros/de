@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 85,
+  "sonraki_id": 86,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 81,
-      "almanca": "anpassen",
-      "turkce": "uyarlamak, uydurmak",
-      "ogrenildi": false
-    },
-    {
       "id": 82,
       "almanca": "verbindlich",
       "turkce": "bağlayıcı, zorunlu",
@@ -122,6 +116,12 @@
       "id": 84,
       "almanca": "investieren",
       "turkce": "para yatırmak, yatırım yapmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 85,
+      "almanca": "Hebebühne",
+      "turkce": "lift, kaldıraç",
       "ogrenildi": false
     }
   ]
