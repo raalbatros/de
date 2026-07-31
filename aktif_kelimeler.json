@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 83,
+  "sonraki_id": 84,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 68,
-      "almanca": "Selbstbewusstsein",
-      "turkce": "özgüven",
-      "ogrenildi": false
-    },
-    {
       "id": 71,
       "almanca": "standhaft",
       "turkce": "dayanıklı",
@@ -122,6 +116,12 @@
       "id": 82,
       "almanca": "verbindlich",
       "turkce": "bağlayıcı, zorunlu",
+      "ogrenildi": false
+    },
+    {
+      "id": 83,
+      "almanca": "Absprachen treffen",
+      "turkce": "anlaşmalar yapmak",
       "ogrenildi": false
     }
   ]
