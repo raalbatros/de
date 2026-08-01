@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 86,
+  "sonraki_id": 87,
   "sira": 0,
   "aktif_liste": [
     {
@@ -50,12 +50,6 @@
       "id": 44,
       "almanca": "bloss",
       "turkce": "sadece",
-      "ogrenildi": false
-    },
-    {
-      "id": 57,
-      "almanca": "Anlage",
-      "turkce": "ek, ekte olan",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 85,
       "almanca": "Hebebühne",
       "turkce": "lift, kaldıraç",
+      "ogrenildi": false
+    },
+    {
+      "id": 86,
+      "almanca": "mittlerweile",
+      "turkce": "bu arada",
       "ogrenildi": false
     }
   ]
