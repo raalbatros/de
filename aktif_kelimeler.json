@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 87,
+  "sonraki_id": 88,
   "sira": 0,
   "aktif_liste": [
     {
@@ -44,12 +44,6 @@
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 44,
-      "almanca": "bloss",
-      "turkce": "sadece",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 86,
       "almanca": "mittlerweile",
       "turkce": "bu arada",
+      "ogrenildi": false
+    },
+    {
+      "id": 87,
+      "almanca": "berechtigt",
+      "turkce": "yetkili, müsaade sahibi",
       "ogrenildi": false
     }
   ]
