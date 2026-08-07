@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 89,
+  "sonraki_id": 90,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 84,
-      "almanca": "investieren",
-      "turkce": "para yatırmak, yatırım yapmak",
-      "ogrenildi": false
-    },
-    {
       "id": 86,
       "almanca": "mittlerweile",
       "turkce": "bu arada",
@@ -122,6 +116,12 @@
       "id": 88,
       "almanca": "veranstalten",
       "turkce": "düzenlemek, organize etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 89,
+      "almanca": "Muster",
+      "turkce": "örnek, kalıp",
       "ogrenildi": false
     }
   ]
