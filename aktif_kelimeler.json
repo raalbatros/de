@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 90,
+  "sonraki_id": 91,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 86,
-      "almanca": "mittlerweile",
-      "turkce": "bu arada",
-      "ogrenildi": false
-    },
-    {
       "id": 87,
       "almanca": "berechtigt",
       "turkce": "yetkili, müsaade sahibi",
@@ -122,6 +116,12 @@
       "id": 89,
       "almanca": "Muster",
       "turkce": "örnek, kalıp",
+      "ogrenildi": false
+    },
+    {
+      "id": 90,
+      "almanca": "anfordern",
+      "turkce": "talep etmek, istemek",
       "ogrenildi": false
     }
   ]
