@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 92,
+  "sonraki_id": 93,
   "sira": 0,
   "aktif_liste": [
     {
@@ -44,12 +44,6 @@
       "id": 35,
       "almanca": "erwerben",
       "turkce": "kazanmak, edinmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 64,
-      "almanca": "jeweiligen",
-      "turkce": "ilgili",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 91,
       "almanca": "Verbrechen",
       "turkce": "suç",
+      "ogrenildi": false
+    },
+    {
+      "id": 92,
+      "almanca": "einlenken",
+      "turkce": "razı olmak",
       "ogrenildi": false
     }
   ]
