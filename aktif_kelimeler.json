@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 91,
+  "sonraki_id": 92,
   "sira": 0,
   "aktif_liste": [
     {
@@ -65,12 +65,6 @@
       "ogrenildi": false
     },
     {
-      "id": 75,
-      "almanca": "zwingen",
-      "turkce": "zorlamak, mecbur etmek",
-      "ogrenildi": false
-    },
-    {
       "id": 76,
       "almanca": "Gleitzeit",
       "turkce": "esnek çalışma saatleri",
@@ -122,6 +116,12 @@
       "id": 90,
       "almanca": "anfordern",
       "turkce": "talep etmek, istemek",
+      "ogrenildi": false
+    },
+    {
+      "id": 91,
+      "almanca": "Verbrechen",
+      "turkce": "suç",
       "ogrenildi": false
     }
   ]
