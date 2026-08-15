@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 93,
+  "sonraki_id": 94,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 82,
-      "almanca": "verbindlich",
-      "turkce": "bağlayıcı, zorunlu",
-      "ogrenildi": false
-    },
-    {
       "id": 83,
       "almanca": "Absprachen treffen",
       "turkce": "anlaşmalar yapmak",
@@ -122,6 +116,12 @@
       "id": 92,
       "almanca": "einlenken",
       "turkce": "razı olmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 93,
+      "almanca": "reagieren",
+      "turkce": "tepki göstermek",
       "ogrenildi": false
     }
   ]
