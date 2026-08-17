@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 94,
+  "sonraki_id": 95,
   "sira": 0,
   "aktif_liste": [
     {
@@ -20,12 +20,6 @@
       "id": 23,
       "almanca": "abweichend",
       "turkce": "birbirinden farklı",
-      "ogrenildi": false
-    },
-    {
-      "id": 24,
-      "almanca": "unterbrechen",
-      "turkce": "ara vermek, sözünü kesmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 93,
       "almanca": "reagieren",
       "turkce": "tepki göstermek",
+      "ogrenildi": false
+    },
+    {
+      "id": 94,
+      "almanca": "sachgerecht",
+      "turkce": "usulüne uygun",
       "ogrenildi": false
     }
   ]
