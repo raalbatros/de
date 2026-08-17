@@ -1,15 +1,9 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 96,
+  "sonraki_id": 97,
   "sira": 0,
   "aktif_liste": [
-    {
-      "id": 10,
-      "almanca": "gewähren",
-      "turkce": "vermek, bağışlamak",
-      "ogrenildi": false
-    },
     {
       "id": 12,
       "almanca": "verstellen",
@@ -122,6 +116,12 @@
       "id": 95,
       "almanca": "erträglich",
       "turkce": "katlanılır, dayanılır",
+      "ogrenildi": false
+    },
+    {
+      "id": 96,
+      "almanca": "Zustand",
+      "turkce": "durum, hal",
       "ogrenildi": false
     }
   ]
