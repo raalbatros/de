@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 97,
+  "sonraki_id": 98,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 93,
-      "almanca": "reagieren",
-      "turkce": "tepki göstermek",
-      "ogrenildi": false
-    },
-    {
       "id": 94,
       "almanca": "sachgerecht",
       "turkce": "usulüne uygun",
@@ -122,6 +116,12 @@
       "id": 96,
       "almanca": "Zustand",
       "turkce": "durum, hal",
+      "ogrenildi": false
+    },
+    {
+      "id": 97,
+      "almanca": "Anspruch",
+      "turkce": "hak, talep, iddia",
       "ogrenildi": false
     }
   ]
