@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 101,
+  "sonraki_id": 102,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 95,
-      "almanca": "erträglich",
-      "turkce": "katlanılır, dayanılır",
-      "ogrenildi": false
-    },
-    {
       "id": 98,
       "almanca": "fremd",
       "turkce": "yabancı",
@@ -122,6 +116,12 @@
       "id": 100,
       "almanca": "herkommen",
       "turkce": "buraya gelmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 101,
+      "almanca": "fühlen",
+      "turkce": "hissetmek",
       "ogrenildi": false
     }
   ]
