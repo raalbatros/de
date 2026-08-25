@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 102,
+  "sonraki_id": 103,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 98,
-      "almanca": "fremd",
-      "turkce": "yabancı",
-      "ogrenildi": false
-    },
-    {
       "id": 99,
       "almanca": "Gerüche",
       "turkce": "koku",
@@ -122,6 +116,12 @@
       "id": 101,
       "almanca": "fühlen",
       "turkce": "hissetmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 102,
+      "almanca": "ausserdem",
+      "turkce": "ayrıca",
       "ogrenildi": false
     }
   ]
