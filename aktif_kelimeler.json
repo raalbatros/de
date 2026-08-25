@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 104,
+  "sonraki_id": 105,
   "sira": 0,
   "aktif_liste": [
     {
@@ -113,15 +113,15 @@
       "ogrenildi": false
     },
     {
-      "id": 101,
-      "almanca": "fühlen",
-      "turkce": "hissetmek",
-      "ogrenildi": false
-    },
-    {
       "id": 103,
       "almanca": "gebracht",
       "turkce": "getirmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 104,
+      "almanca": "nervös",
+      "turkce": "sinirli",
       "ogrenildi": false
     }
   ]
