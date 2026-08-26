@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 106,
+  "sonraki_id": 107,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 103,
-      "almanca": "gebracht",
-      "turkce": "getirmek",
-      "ogrenildi": false
-    },
-    {
       "id": 104,
       "almanca": "nervös",
       "turkce": "sinirli",
@@ -122,6 +116,12 @@
       "id": 105,
       "almanca": "unbedingt",
       "turkce": "mutlaka",
+      "ogrenildi": false
+    },
+    {
+      "id": 106,
+      "almanca": "häufiger",
+      "turkce": "daha sık",
       "ogrenildi": false
     }
   ]
