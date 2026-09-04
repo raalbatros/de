@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 107,
+  "sonraki_id": 108,
   "sira": 0,
   "aktif_liste": [
     {
@@ -113,15 +113,15 @@
       "ogrenildi": false
     },
     {
-      "id": 105,
-      "almanca": "unbedingt",
-      "turkce": "mutlaka",
-      "ogrenildi": false
-    },
-    {
       "id": 106,
       "almanca": "häufiger",
       "turkce": "daha sık",
+      "ogrenildi": false
+    },
+    {
+      "id": 107,
+      "almanca": "Freude",
+      "turkce": "sevinç",
       "ogrenildi": false
     }
   ]
