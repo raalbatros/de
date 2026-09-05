@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 110,
+  "sonraki_id": 111,
   "sira": 0,
   "aktif_liste": [
     {
@@ -77,12 +77,6 @@
       "ogrenildi": false
     },
     {
-      "id": 90,
-      "almanca": "anfordern",
-      "turkce": "talep etmek, istemek",
-      "ogrenildi": false
-    },
-    {
       "id": 91,
       "almanca": "Verbrechen",
       "turkce": "suç",
@@ -122,6 +116,12 @@
       "id": 109,
       "almanca": "Frieden",
       "turkce": "barış, huzur",
+      "ogrenildi": false
+    },
+    {
+      "id": 110,
+      "almanca": "Übungen",
+      "turkce": "alıştırma",
       "ogrenildi": false
     }
   ]
