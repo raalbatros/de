@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 112,
+  "sonraki_id": 113,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 107,
-      "almanca": "Freude",
-      "turkce": "sevinç",
-      "ogrenildi": false
-    },
-    {
       "id": 108,
       "almanca": "Enttäuschung",
       "turkce": "hayal kırıklığı",
@@ -122,6 +116,12 @@
       "id": 111,
       "almanca": "feiern",
       "turkce": "kutlamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 112,
+      "almanca": "erinnern",
+      "turkce": "hatırlamak",
       "ogrenildi": false
     }
   ]
