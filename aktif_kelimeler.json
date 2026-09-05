@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 111,
+  "sonraki_id": 112,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 89,
-      "almanca": "Muster",
-      "turkce": "örnek, kalıp",
-      "ogrenildi": false
-    },
-    {
       "id": 91,
       "almanca": "Verbrechen",
       "turkce": "suç",
@@ -122,6 +116,12 @@
       "id": 110,
       "almanca": "Übungen",
       "turkce": "alıştırma",
+      "ogrenildi": false
+    },
+    {
+      "id": 111,
+      "almanca": "feiern",
+      "turkce": "kutlamak",
       "ogrenildi": false
     }
   ]
