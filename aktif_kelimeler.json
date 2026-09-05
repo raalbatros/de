@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 114,
+  "sonraki_id": 115,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 108,
-      "almanca": "Enttäuschung",
-      "turkce": "hayal kırıklığı",
-      "ogrenildi": false
-    },
-    {
       "id": 109,
       "almanca": "Frieden",
       "turkce": "barış, huzur",
@@ -122,6 +116,12 @@
       "id": 113,
       "almanca": "erhalten",
       "turkce": "teslim almak",
+      "ogrenildi": false
+    },
+    {
+      "id": 114,
+      "almanca": "rund",
+      "turkce": "yuvarlak",
       "ogrenildi": false
     }
   ]
