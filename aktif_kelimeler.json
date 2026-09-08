@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 115,
+  "sonraki_id": 116,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 112,
-      "almanca": "erinnern",
-      "turkce": "hatırlamak",
-      "ogrenildi": false
-    },
-    {
       "id": 113,
       "almanca": "erhalten",
       "turkce": "teslim almak",
@@ -122,6 +116,12 @@
       "id": 114,
       "almanca": "rund",
       "turkce": "yuvarlak",
+      "ogrenildi": false
+    },
+    {
+      "id": 115,
+      "almanca": "lassen",
+      "turkce": "bırakmak, izin vermek",
       "ogrenildi": false
     }
   ]
