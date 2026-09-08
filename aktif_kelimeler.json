@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 117,
+  "sonraki_id": 118,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 110,
-      "almanca": "Übungen",
-      "turkce": "alıştırma",
-      "ogrenildi": false
-    },
-    {
       "id": 113,
       "almanca": "erhalten",
       "turkce": "teslim almak",
@@ -122,6 +116,12 @@
       "id": 116,
       "almanca": "verlängern",
       "turkce": "uzatmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 117,
+      "almanca": "renovieren",
+      "turkce": "yenilemek",
       "ogrenildi": false
     }
   ]
