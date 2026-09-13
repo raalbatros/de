@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 118,
+  "sonraki_id": 119,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 109,
-      "almanca": "Frieden",
-      "turkce": "barış, huzur",
-      "ogrenildi": false
-    },
-    {
       "id": 113,
       "almanca": "erhalten",
       "turkce": "teslim almak",
@@ -122,6 +116,12 @@
       "id": 117,
       "almanca": "renovieren",
       "turkce": "yenilemek",
+      "ogrenildi": false
+    },
+    {
+      "id": 118,
+      "almanca": "vermissen",
+      "turkce": "özlemek",
       "ogrenildi": false
     }
   ]
