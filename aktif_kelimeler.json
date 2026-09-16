@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 119,
+  "sonraki_id": 120,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 113,
-      "almanca": "erhalten",
-      "turkce": "teslim almak",
-      "ogrenildi": false
-    },
-    {
       "id": 114,
       "almanca": "rund",
       "turkce": "yuvarlak",
@@ -122,6 +116,12 @@
       "id": 118,
       "almanca": "vermissen",
       "turkce": "özlemek",
+      "ogrenildi": false
+    },
+    {
+      "id": 119,
+      "almanca": "Mut",
+      "turkce": "cesaret",
       "ogrenildi": false
     }
   ]
