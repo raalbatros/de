@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 122,
+  "sonraki_id": 123,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 115,
-      "almanca": "lassen",
-      "turkce": "bırakmak, izin vermek",
-      "ogrenildi": false
-    },
-    {
       "id": 118,
       "almanca": "vermissen",
       "turkce": "özlemek",
@@ -122,6 +116,12 @@
       "id": 121,
       "almanca": "auswandern",
       "turkce": "göç etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 122,
+      "almanca": "Herd",
+      "turkce": "ocak, soba",
       "ogrenildi": false
     }
   ]
