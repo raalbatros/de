@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 121,
+  "sonraki_id": 122,
   "sira": 0,
   "aktif_liste": [
     {
@@ -101,12 +101,6 @@
       "ogrenildi": false
     },
     {
-      "id": 116,
-      "almanca": "verlängern",
-      "turkce": "uzatmak",
-      "ogrenildi": false
-    },
-    {
       "id": 118,
       "almanca": "vermissen",
       "turkce": "özlemek",
@@ -122,6 +116,12 @@
       "id": 120,
       "almanca": "unterstützen",
       "turkce": "desteklemek",
+      "ogrenildi": false
+    },
+    {
+      "id": 121,
+      "almanca": "auswandern",
+      "turkce": "göç etmek",
       "ogrenildi": false
     }
   ]
