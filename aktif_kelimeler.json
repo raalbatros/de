@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 123,
+  "sonraki_id": 124,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 118,
-      "almanca": "vermissen",
-      "turkce": "özlemek",
-      "ogrenildi": false
-    },
-    {
       "id": 119,
       "almanca": "Mut",
       "turkce": "cesaret",
@@ -122,6 +116,12 @@
       "id": 122,
       "almanca": "Herd",
       "turkce": "ocak, soba",
+      "ogrenildi": false
+    },
+    {
+      "id": 123,
+      "almanca": "geregelte",
+      "turkce": "düzenlenmiş",
       "ogrenildi": false
     }
   ]
