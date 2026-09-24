@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 127,
+  "sonraki_id": 128,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 124,
-      "almanca": "irgendwie",
-      "turkce": "herhangi bir şekilde",
-      "ogrenildi": false
-    },
-    {
       "id": 125,
       "almanca": "Reinigungsfachkraft",
       "turkce": "profesyonel temizlik",
@@ -122,6 +116,12 @@
       "id": 126,
       "almanca": "Festanstellung",
       "turkce": "sürekli iş, kalıcı iş",
+      "ogrenildi": false
+    },
+    {
+      "id": 127,
+      "almanca": "verdienen",
+      "turkce": "kazanmak",
       "ogrenildi": false
     }
   ]
