@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 128,
+  "sonraki_id": 129,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 114,
-      "almanca": "rund",
-      "turkce": "yuvarlak",
-      "ogrenildi": false
-    },
-    {
       "id": 121,
       "almanca": "auswandern",
       "turkce": "göç etmek",
@@ -122,6 +116,12 @@
       "id": 127,
       "almanca": "verdienen",
       "turkce": "kazanmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 128,
+      "almanca": "Stellenanzeige",
+      "turkce": "iş ilanı",
       "ogrenildi": false
     }
   ]
