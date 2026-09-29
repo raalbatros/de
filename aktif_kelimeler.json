@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 129,
+  "sonraki_id": 130,
   "sira": 0,
   "aktif_liste": [
     {
@@ -50,12 +50,6 @@
       "id": 80,
       "almanca": "ausüben",
       "turkce": "yapmak, icra etmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 83,
-      "almanca": "Absprachen treffen",
-      "turkce": "anlaşmalar yapmak",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 128,
       "almanca": "Stellenanzeige",
       "turkce": "iş ilanı",
+      "ogrenildi": false
+    },
+    {
+      "id": 129,
+      "almanca": "Vergleich",
+      "turkce": "karşılaştırma",
       "ogrenildi": false
     }
   ]
