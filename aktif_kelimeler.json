@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 130,
+  "sonraki_id": 131,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 92,
-      "almanca": "einlenken",
-      "turkce": "razı olmak",
-      "ogrenildi": false
-    },
-    {
       "id": 94,
       "almanca": "sachgerecht",
       "turkce": "usulüne uygun",
@@ -122,6 +116,12 @@
       "id": 129,
       "almanca": "Vergleich",
       "turkce": "karşılaştırma",
+      "ogrenildi": false
+    },
+    {
+      "id": 130,
+      "almanca": "pflücken",
+      "turkce": "koparmak, toplamak",
       "ogrenildi": false
     }
   ]
