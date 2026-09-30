@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 132,
+  "sonraki_id": 133,
   "sira": 0,
   "aktif_liste": [
     {
@@ -14,12 +14,6 @@
       "id": 28,
       "almanca": "brechen",
       "turkce": "ayrılmak",
-      "ogrenildi": false
-    },
-    {
-      "id": 30,
-      "almanca": "festgelegt",
-      "turkce": "belirli, kesin",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 131,
       "almanca": "Erfolg",
       "turkce": "başarı",
+      "ogrenildi": false
+    },
+    {
+      "id": 132,
+      "almanca": "geärgert",
+      "turkce": "kızgın",
       "ogrenildi": false
     }
   ]
