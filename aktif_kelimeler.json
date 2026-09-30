@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 131,
+  "sonraki_id": 132,
   "sira": 0,
   "aktif_liste": [
     {
@@ -32,12 +32,6 @@
       "id": 67,
       "almanca": "einhalten",
       "turkce": "bir şeye uymak",
-      "ogrenildi": false
-    },
-    {
-      "id": 71,
-      "almanca": "standhaft",
-      "turkce": "dayanıklı",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 130,
       "almanca": "pflücken",
       "turkce": "koparmak, toplamak",
+      "ogrenildi": false
+    },
+    {
+      "id": 131,
+      "almanca": "Erfolg",
+      "turkce": "başarı",
       "ogrenildi": false
     }
   ]
