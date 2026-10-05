@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 134,
+  "sonraki_id": 135,
   "sira": 0,
   "aktif_liste": [
     {
@@ -50,12 +50,6 @@
       "id": 88,
       "almanca": "veranstalten",
       "turkce": "düzenlemek, organize etmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 91,
-      "almanca": "Verbrechen",
-      "turkce": "suç",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 133,
       "almanca": "beworben",
       "turkce": "başvurmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 134,
+      "almanca": "verabreden",
+      "turkce": "randevulaşmak, kararlaştırmak",
       "ogrenildi": false
     }
   ]
