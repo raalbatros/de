@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 136,
+  "sonraki_id": 137,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 129,
-      "almanca": "Vergleich",
-      "turkce": "karşılaştırma",
-      "ogrenildi": false
-    },
-    {
       "id": 130,
       "almanca": "pflücken",
       "turkce": "koparmak, toplamak",
@@ -122,6 +116,12 @@
       "id": 135,
       "almanca": "achten",
       "turkce": "dikkat etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 136,
+      "almanca": "vorbereitet",
+      "turkce": "hazırlıklı",
       "ogrenildi": false
     }
   ]
