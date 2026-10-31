@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 141,
+  "sonraki_id": 142,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 131,
-      "almanca": "Erfolg",
-      "turkce": "başarı",
-      "ogrenildi": false
-    },
-    {
       "id": 133,
       "almanca": "beworben",
       "turkce": "başvurmak",
@@ -122,6 +116,12 @@
       "id": 140,
       "almanca": "sorgfältig",
       "turkce": "özenli, itinalı",
+      "ogrenildi": false
+    },
+    {
+      "id": 141,
+      "almanca": "belastbar",
+      "turkce": "dayanıklı",
       "ogrenildi": false
     }
   ]
