@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 138,
+  "sonraki_id": 139,
   "sira": 0,
   "aktif_liste": [
     {
@@ -113,15 +113,15 @@
       "ogrenildi": false
     },
     {
-      "id": 136,
-      "almanca": "vorbereitet",
-      "turkce": "hazırlıklı",
-      "ogrenildi": false
-    },
-    {
       "id": 137,
       "almanca": "bewerben",
       "turkce": "başvurmak",
+      "ogrenildi": false
+    },
+    {
+      "id": 138,
+      "almanca": "freuen",
+      "turkce": "sevinmek",
       "ogrenildi": false
     }
   ]
