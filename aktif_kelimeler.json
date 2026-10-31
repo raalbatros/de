@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 139,
+  "sonraki_id": 140,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 135,
-      "almanca": "achten",
-      "turkce": "dikkat etmek",
-      "ogrenildi": false
-    },
-    {
       "id": 137,
       "almanca": "bewerben",
       "turkce": "başvurmak",
@@ -122,6 +116,12 @@
       "id": 138,
       "almanca": "freuen",
       "turkce": "sevinmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 139,
+      "almanca": "aushalten",
+      "turkce": "dayanmak, tahammül etmek",
       "ogrenildi": false
     }
   ]
