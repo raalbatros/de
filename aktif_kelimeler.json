@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 140,
+  "sonraki_id": 141,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 132,
-      "almanca": "geärgert",
-      "turkce": "kızgın",
-      "ogrenildi": false
-    },
-    {
       "id": 133,
       "almanca": "beworben",
       "turkce": "başvurmak",
@@ -122,6 +116,12 @@
       "id": 139,
       "almanca": "aushalten",
       "turkce": "dayanmak, tahammül etmek",
+      "ogrenildi": false
+    },
+    {
+      "id": 140,
+      "almanca": "sorgfältig",
+      "turkce": "özenli, itinalı",
       "ogrenildi": false
     }
   ]
