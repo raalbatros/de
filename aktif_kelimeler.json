@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 142,
+  "sonraki_id": 143,
   "sira": 0,
   "aktif_liste": [
     {
@@ -71,12 +71,6 @@
       "ogrenildi": false
     },
     {
-      "id": 126,
-      "almanca": "Festanstellung",
-      "turkce": "sürekli iş, kalıcı iş",
-      "ogrenildi": false
-    },
-    {
       "id": 130,
       "almanca": "pflücken",
       "turkce": "koparmak, toplamak",
@@ -122,6 +116,12 @@
       "id": 141,
       "almanca": "belastbar",
       "turkce": "dayanıklı",
+      "ogrenildi": false
+    },
+    {
+      "id": 142,
+      "almanca": "durchsetzungsfähig",
+      "turkce": "iddialı",
       "ogrenildi": false
     }
   ]
