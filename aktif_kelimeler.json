@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 143,
+  "sonraki_id": 144,
   "sira": 0,
   "aktif_liste": [
     {
@@ -32,12 +32,6 @@
       "id": 77,
       "almanca": "feststellen",
       "turkce": "saptamak, tespit etmek",
-      "ogrenildi": false
-    },
-    {
-      "id": 80,
-      "almanca": "ausüben",
-      "turkce": "yapmak, icra etmek",
       "ogrenildi": false
     },
     {
@@ -122,6 +116,12 @@
       "id": 142,
       "almanca": "durchsetzungsfähig",
       "turkce": "iddialı",
+      "ogrenildi": false
+    },
+    {
+      "id": 143,
+      "almanca": "anpassungsfähig",
+      "turkce": "uyarlanabilir",
       "ogrenildi": false
     }
   ]
