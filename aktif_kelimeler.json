@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 145,
+  "sonraki_id": 146,
   "sira": 0,
   "aktif_liste": [
     {
@@ -83,12 +83,6 @@
       "ogrenildi": false
     },
     {
-      "id": 137,
-      "almanca": "bewerben",
-      "turkce": "başvurmak",
-      "ogrenildi": false
-    },
-    {
       "id": 139,
       "almanca": "aushalten",
       "turkce": "dayanmak, tahammül etmek",
@@ -122,6 +116,12 @@
       "id": 144,
       "almanca": "Schluss",
       "turkce": "bitiş",
+      "ogrenildi": false
+    },
+    {
+      "id": 145,
+      "almanca": "Bereich",
+      "turkce": "bölge, alan, saha",
       "ogrenildi": false
     }
   ]
