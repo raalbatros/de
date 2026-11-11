@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 144,
+  "sonraki_id": 145,
   "sira": 0,
   "aktif_liste": [
     {
@@ -89,12 +89,6 @@
       "ogrenildi": false
     },
     {
-      "id": 138,
-      "almanca": "freuen",
-      "turkce": "sevinmek",
-      "ogrenildi": false
-    },
-    {
       "id": 139,
       "almanca": "aushalten",
       "turkce": "dayanmak, tahammül etmek",
@@ -122,6 +116,12 @@
       "id": 143,
       "almanca": "anpassungsfähig",
       "turkce": "uyarlanabilir",
+      "ogrenildi": false
+    },
+    {
+      "id": 144,
+      "almanca": "Schluss",
+      "turkce": "bitiş",
       "ogrenildi": false
     }
   ]
