@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 146,
+  "sonraki_id": 147,
   "sira": 0,
   "aktif_liste": [
     {
@@ -95,12 +95,6 @@
       "ogrenildi": false
     },
     {
-      "id": 141,
-      "almanca": "belastbar",
-      "turkce": "dayanıklı",
-      "ogrenildi": false
-    },
-    {
       "id": 142,
       "almanca": "durchsetzungsfähig",
       "turkce": "iddialı",
@@ -122,6 +116,12 @@
       "id": 145,
       "almanca": "Bereich",
       "turkce": "bölge, alan, saha",
+      "ogrenildi": false
+    },
+    {
+      "id": 146,
+      "almanca": "tätig",
+      "turkce": "aktif, etkin",
       "ogrenildi": false
     }
   ]
