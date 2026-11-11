@@ -1,7 +1,7 @@
 {
   "guncelleme": "2026-05-08",
   "aktif_kelime_sayisi": 20,
-  "sonraki_id": 147,
+  "sonraki_id": 148,
   "sira": 0,
   "aktif_liste": [
     {
@@ -107,12 +107,6 @@
       "ogrenildi": false
     },
     {
-      "id": 144,
-      "almanca": "Schluss",
-      "turkce": "bitiş",
-      "ogrenildi": false
-    },
-    {
       "id": 145,
       "almanca": "Bereich",
       "turkce": "bölge, alan, saha",
@@ -122,6 +116,12 @@
       "id": 146,
       "almanca": "tätig",
       "turkce": "aktif, etkin",
+      "ogrenildi": false
+    },
+    {
+      "id": 147,
+      "almanca": "Kenntnis",
+      "turkce": "bilgi",
       "ogrenildi": false
     }
   ]
